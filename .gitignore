@@ -1,0 +1,10 @@
+# keys
+*.key
+*.pem
+*.pub
+
+# inputs
+# *.csv
+
+# outputs
+*.pdf

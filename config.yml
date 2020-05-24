@@ -1,0 +1,41 @@
+issued:
+  for: "Best Student"
+  date: "2020-02-20"
+
+signatory:
+  first:
+    name: "Alice B"
+    title: "Teacher"
+  second:
+    name: "Bob C"
+    title: "Principal"
+
+paths:
+  data: "data"
+  output: "certificates"
+  groups: "grades"
+  subgroups: "sections"
+
+page:
+  size: "A4"
+  width: 841.89
+  height: 595.28
+  layout: "landscape"
+  background: "images/template.jpg"
+
+font:
+  normal: "fonts/eb_garamond_12_regular.ttf"
+  italic: "fonts/eb_garamond_12_italic.ttf"
+
+sign:
+  country: AE
+  state: Dubai
+  location: Dubai
+  organization: School
+  organizational_unit: Department
+  common_name: Issuer Name
+  email: email@example.com
+  reason: Certificate of Achievement
+  private_key: cert.key
+  public_key: cert.pub
+  certificate: cert.pem
